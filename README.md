@@ -8,16 +8,15 @@ Overview Flow Cytometry
 - output: two-parameter plots and single-parameter histograms
 
 
-![How flow cytometry works](http://a.static-abcam.com/CmsMedia/Media/flowcytometry01472px.jpg)
+- [Flow Cytometry Introduction](https://www.bu.edu/flow-cytometry/files/2010/10/BD-Flow-Cytom-Learning-Guide.pdf)
+- [How flow cytometry works](http://a.static-abcam.com/CmsMedia/Media/flowcytometry01472px.jpg)
+
 
 
 
 
 
 Overview Mass Cytometry
-
-
-
 
 
 
