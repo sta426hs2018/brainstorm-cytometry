@@ -1,7 +1,8 @@
 # brainstorm-cytometry
 brainstorm-cytometry created by GitHub Classroom
 
-### Overview Flow Cytometry
+
+## **Overview Flow Cytometry**
 - cell type and cell count discovery; enables cell sorting
 - cells labeled with fluorescent antibodies are brought into a single cell suspension, which is illuminated with a laser light beam: cellular features produce light scatter (forward angle scatter and side angle scatter)
 - different cell types produce forward scatter and side scatter to a different extent
@@ -13,6 +14,9 @@ brainstorm-cytometry created by GitHub Classroom
 
 
 
+## **Overview Mass Cytometry**
+
+
 
 
 ### Overview Mass Cytometry
@@ -20,13 +24,14 @@ brainstorm-cytometry created by GitHub Classroom
 
 
 
-### Comparison between the two techniques
+
+## **Comparison between the two techniques**
 
 FC is cheaper and faster, but needs compensation for fluorescence overlap.
 MC is able to detect more parameters per cell than FC, but requires more sample preparation.
 
-### Online resources
-#### Flow cytometry
+## **Online resources**
+### Flow cytometry
 - [a short video on flow cytometry](https://www.youtube.com/watch?v=EQXPJ7eeesQ)
 - [basics guide to flow cytometry](https://www.bio-rad-antibodies.com/introduction-to-flow-cytometry.html)
 - [Flow Cytometry Introduction](https://www.bu.edu/flow-cytometry/files/2010/10/BD-Flow-Cytom-Learning-Guide.pdf)
