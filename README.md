@@ -25,7 +25,14 @@ Comparison between the two techniques
 
 
 
+
+Comparison between the two techniques
+
+FC is cheaper and faster, but needs compensation for fluorescence overlap.
+MC is able to detect more parameters per cell than FC, but requires more sample preparation.
+
 Online resources
 - [a short video on flow cytometry](https://www.youtube.com/watch?v=EQXPJ7eeesQ)
 - [basics guide to flow cytometry](https://www.bio-rad-antibodies.com/introduction-to-flow-cytometry.html)
 - [summary journal paper on mass cytometry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860251/)
+
