@@ -1,6 +1,12 @@
 # brainstorm-cytometry
 brainstorm-cytometry created by GitHub Classroom
 
+### **Contributors**
+- mkuijs: Merel Kuijs
+- lbourguignon: Lucie Bourguignon
+- parizkh: Hana Parizkova
+- retogerber: Reto Gerber
+- RBetschart : Raphael Betschart
 
 ## **Overview Flow Cytometry**
 - cell type and cell count discovery; enables cell sorting
@@ -17,13 +23,21 @@ brainstorm-cytometry created by GitHub Classroom
 ## **Overview Mass Cytometry**
 
 
+
 ![How mass cytometry works](http://dmd.aspetjournals.org/content/dmd/43/2/227/F1.large.jpg)
+
+- combination of plasma mass spectrometry and time-of-flight mass spectrometry
+- cellular proteins labeled with isotope-conjugated antibodies, metal signals analyzed by time-of-flight mass spectrometer
+![mass spectrometry figure](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4860251_nihms776744f1.jpg)
+
+
 
 
 
 ## **Comparison between the two techniques**
 
 FC is cheaper and faster, but needs compensation for fluorescence overlap.
+
 MC is able to detect more parameters per cell than FC, but requires more sample preparation.
 
 ## **Online resources**
@@ -32,6 +46,6 @@ MC is able to detect more parameters per cell than FC, but requires more sample 
 - [basics guide to flow cytometry](https://www.bio-rad-antibodies.com/introduction-to-flow-cytometry.html)
 - [Flow Cytometry Introduction](https://www.bu.edu/flow-cytometry/files/2010/10/BD-Flow-Cytom-Learning-Guide.pdf)
 - [How flow cytometry works](http://a.static-abcam.com/CmsMedia/Media/flowcytometry01472px.jpg)
-#### Mass cytometry
+### Mass cytometry
 - [summary journal paper on mass cytometry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860251/)
 
