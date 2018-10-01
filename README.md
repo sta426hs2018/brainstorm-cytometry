@@ -6,7 +6,7 @@ brainstorm-cytometry created by GitHub Classroom
 - lbourguignon: Lucie Bourguignon
 - parizkh: Hana Parizkova
 - retogerber: Reto Gerber
--RBetschart : Raphael Betschart
+- RBetschart : Raphael Betschart
 
 ## **Overview Flow Cytometry**
 - cell type and cell count discovery; enables cell sorting
