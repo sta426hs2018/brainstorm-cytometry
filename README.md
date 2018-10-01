@@ -17,11 +17,7 @@ brainstorm-cytometry created by GitHub Classroom
 ## **Overview Mass Cytometry**
 
 
-
-
-### Overview Mass Cytometry
-
-
+![How mass cytometry works](http://dmd.aspetjournals.org/content/dmd/43/2/227/F1.large.jpg)
 
 
 
