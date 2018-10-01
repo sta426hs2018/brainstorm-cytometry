@@ -9,7 +9,7 @@ brainstorm-cytometry created by GitHub Classroom
 - output: two-parameter plots and single-parameter histograms
 
 
-
+![How flow cytometry works](http://a.static-abcam.com/CmsMedia/Media/flowcytometry01472px.jpg)
 
 
 
