@@ -21,7 +21,6 @@ brainstorm-cytometry created by GitHub Classroom
 
 
 
-Comparison between the two techniques
 
 
 
